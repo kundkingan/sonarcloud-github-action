@@ -1,4 +1,4 @@
-name: 'SonarCloud Scan'
+name: 'SonarCloud Scan PR fix'
 description: 'Scan your code with SonarCloud to detect bugs, vulnerabilities and code smells in more than 25 programming languages.'
 branding:
   icon: 'check'
